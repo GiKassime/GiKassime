@@ -8,6 +8,8 @@
 
 - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
+
+
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
 - 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues)
@@ -20,8 +22,10 @@
 
 
 
-
+<br></br>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
 
 
 
@@ -38,23 +42,38 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
+
 <br></br>
-<h2 align="center">Top Repositories</h2>
 
 
-<a href="https://github.com/GiKassime/PHP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" />
+<h2>Top Repositories</h2>
+
+<div>
+
+   <a> <img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95" min-width="200px" max-width="400px" width="250px"         align="right" alt="Gatinho no Computador" />
+
+  <a href="https://github.com/GiKassime/PHP"  align="center">
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" />
+  </a>
+
+  <a href="https://github.com/GiKassime/GiKassime" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=.github.io&theme=jolly"  align="center" />
+  </a>
+ 
 </a>
-<a href="https://github.com/GiKassime/GiKassime.">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=.github.io&theme=jolly" />
-</a>
+</div>
 
-<br />
-<h2>Contacts:</h2>
 
-<div> 
+
+
+
+
+
+
+
+<div align="center"> 
+
+  <h2>Contacts:</h2>
 <a href="https://www.instagram.com/https_kassime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.giovana.kassime.tds2023@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
