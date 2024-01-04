@@ -71,8 +71,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" width="60%"  />
   </a>
 
-  <a href="https://github.com/GiKassime/GiKassime" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=.github.io&theme=jolly"   width="60%"   />
+  <a href="https://github.com/anastoledo/O-Misterio-das-Lendas-Brasileiras" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anastoledo&repo=O-Misterio-das-Lendas-Brasileiras&theme=jolly"  width="60%"   />
   </a>
  
 
@@ -87,7 +87,10 @@
 
 
 <div align="center"> 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiKassime}/count.svg" /></p> 
+<br></div>
   <h2>Contacts:</h2>
  
 <a href="https://www.instagram.com/https_kassime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="21%">
