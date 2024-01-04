@@ -4,20 +4,19 @@
 
 <h2>About me</h2>
 <div>
-  - 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 🧐💻 I am currently attending high school integrated with systems development technician at IFPR.
 
+- ❤️🎧🎵I love cats, programming and music. There are several instruments that I like and I also play some🎻🎸.
 
+- 🍰🎈My birthday is 11/06 and I'm currently 17 years old
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
-
-- 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues)
+- 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
 </div>
 
 ## My Skills
 
-| <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiKassime&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiKassime&layout=compact&theme=jolly&hide_border=true" /></a> |
+| <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiKassime&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Anurag's github stats"  /></a> | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiKassime&layout=compact&theme=jolly&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
@@ -48,19 +47,20 @@
 
 <h2>Top Repositories</h2>
 
-<div>
 
-   <a> <img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95" min-width="200px" max-width="400px" width="250px"         align="right" alt="Gatinho no Computador" />
 
-  <a href="https://github.com/GiKassime/PHP"  align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" />
+   <a> <img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95"  min-width="250px" max-width="250px" width="30%"  align="right" alt="Gatinho no Computador" />
+   </a>
+<div align="left">
+  <a href="https://github.com/GiKassime/PHP" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" width="60%"  />
   </a>
 
-  <a href="https://github.com/GiKassime/GiKassime" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=.github.io&theme=jolly"  align="center" />
+  <a href="https://github.com/GiKassime/GiKassime" >
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=.github.io&theme=jolly"   width="60%"   />
   </a>
  
-</a>
+
 </div>
 
 
@@ -74,10 +74,14 @@
 <div align="center"> 
 
   <h2>Contacts:</h2>
-<a href="https://www.instagram.com/https_kassime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+ 
+<a href="https://www.instagram.com/https_kassime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="21%">
 </a>
-<a href = "mailto:contato.giovana.kassime.tds2023@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href = "https://github.com/GiKassime"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:giovana.kassime.tds2023@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="15%"></a>
+<a href = "https://github.com/GiKassime"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"  width="17%"></a>
+
+
+
 
 </div>&nbsp;&nbsp;
  
