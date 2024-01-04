@@ -10,11 +10,12 @@
 - ❤️🎧🎵I love cats, programming and music. There are several instruments that I like and I also play some🎻🎸.
 
 - 🍰🎈My birthday is 11/06 and I'm currently 17 years old
-
+  
+- 🤘 My first project made with scratch (I miss scratch), I can't forget my origins [here](https://scratch.mit.edu/projects/831994431/)
 - 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
 </div>
 
-## My Skills
+## 💻My Skills
 
 | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiKassime&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Anurag's github stats"  /></a> | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiKassime&layout=compact&theme=jolly&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -25,7 +26,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="50%"  align="right" alt="Computador iuriCode">
 
 
-#### I understand:
+#### ✨I understand:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -38,7 +39,7 @@
 
 
 
-#### Studying in this moment:
+#### 😱Studying in this moment:
 ![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
@@ -47,7 +48,7 @@
 
 
 
-#### Workstation Tools:
+#### 📖Workstation Tools:
 
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
@@ -55,12 +56,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 
-#### Current Tools:
+#### ⚙Current Tools:
 ![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 <br></br>
 
 
-<h2>Top Repositories</h2>
+<h2>🏆Top Repositories</h2>
 
 
 
@@ -88,7 +89,7 @@
 
 <div align="center"> 
 
-  <h2>Contacts:</h2>
+  <h2>☎Contacts:</h2>
  
 <a href="https://www.instagram.com/https_kassime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="21%">
 </a>
@@ -101,7 +102,7 @@
 </div>&nbsp;&nbsp;
  
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>👥Visitors Count👥</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiKassime}/count.svg" /></p> 
 <br></div>
   
