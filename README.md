@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8F0D87&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFCC00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2)](https://git.io/typing-svg)
 
 <h2>About me</h2>
 <div>
@@ -12,6 +12,7 @@
 - 🍰🎈My birthday is 11/06 and I'm currently 17 years old
   
 - 🤘 My first project made with scratch (I miss scratch), I can't forget my origins [here](https://scratch.mit.edu/projects/831994431/)
+  
 - 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
 </div>
 
@@ -68,7 +69,7 @@
    <a> <img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95"  min-width="250px" max-width="250px" width="30%"  align="right" alt="Gatinho no Computador" />
    </a>
 <div align="left">
-  <a href="https://github.com/GiKassime/PHP" >
+  <a href="https://github.com/GiKassime/PHP"  target="_blank" >
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" width="60%"  />
   </a>
 
@@ -93,8 +94,8 @@
  
 <a href="https://www.instagram.com/https_kassime" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="21%">
 </a>
-<a href = "mailto:giovana.kassime.tds2023@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="15%"></a>
-<a href = "https://github.com/GiKassime"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"  width="17%"></a>
+<a href = "mailto:giovana.kassime.tds2023@gmail.com"  target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"  width="15%"></a>
+<a href = "https://github.com/GiKassime"  target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="17%"></a>
 
 
 
@@ -107,4 +108,4 @@
 <br></div>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
