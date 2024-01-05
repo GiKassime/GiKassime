@@ -69,12 +69,12 @@
    <a> <img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95"  min-width="250px" max-width="250px" width="30%"  align="right" alt="Gatinho no Computador" />
    </a>
 <div align="left">
-  <a href="https://github.com/GiKassime/PHP"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" width="60%"  />
+  <a href="https://github.com/GiKassime/Atividades-1-ano-IFPR/tree/main/4%20Bimestre/Pokedex"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=jolly" width="60%"  />
   </a>
 
-  <a href="https://github.com/anastoledo/AtividadesGerais-1ano/tree/main/AtividadePortugol-Bimestral" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anastoledo&repo=AtividadePortugol-Bimestral&theme=jolly"  width="60%"    />
+  <a href="https://github.com/GiKassime/Atividades-1-ano-IFPR/tree/6786671aa8ab6640c6aa9caf407dbd29df3eb5b5/3%20Bimestre/AtividadeBimestralJogo" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=jolly"  width="60%"    />
   </a>
  
 
