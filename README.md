@@ -72,8 +72,8 @@
   <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHP&theme=jolly" width="60%"  />
   </a>
 
-  <a href="https://github.com/anastoledo/O-Misterio-das-Lendas-Brasileiras" >
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anastoledo&repo=O-Misterio-das-Lendas-Brasileiras&theme=jolly"  width="60%"   />
+  <a href="https://github.com/anastoledo/AtividadesGerais-1ano/tree/main/AtividadePortugol-Bimestral" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anastoledo&repo=AtividadePortugol-Bimestral&theme=jolly"  width="60%"    />
   </a>
  
 
