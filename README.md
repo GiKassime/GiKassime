@@ -1,11 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
-<div style="display">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<div >
   <img width="80%"
     src="https://readme-typing-svg.herokuapp.com/?color=FFCC00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2"/>
   <img width="10%" align="left" src="https://i.picasion.com/pic92/f161288b36c71646f0aea7e623219ffe.gif" border="0" alt="https://picasion.com/" />
   <img width="10%" align="right" src="https://i.picasion.com/pic92/f161288b36c71646f0aea7e623219ffe.gif" border="0" alt="https://picasion.com/" />
 </div>
-
+<br></br>
 
 <h2>About me</h2>
 <div>
