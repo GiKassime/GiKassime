@@ -1,10 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
-<div >
-  <img width="80%"
+<div align="center">
+  <img width="100%" height="50%"
     src="https://readme-typing-svg.herokuapp.com/?color=FFCC00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2"/>
-  <img width="10%" align="left" src="https://i.picasion.com/pic92/f161288b36c71646f0aea7e623219ffe.gif" border="0" alt="https://picasion.com/" />
-  <img width="10%" align="right" src="https://i.picasion.com/pic92/f161288b36c71646f0aea7e623219ffe.gif" border="0" alt="https://picasion.com/" />
+  
+  <img  src="https://i.picasion.com/pic92/0164c18e76a7f5a78cccb7e4f4a1868f.gif"  text-align="middle" width="12%" height="12%" border="2%" alt="https://picasion.com/" />
 </div>
+
+
 <br></br>
 
 <h2>About me</h2>
@@ -108,7 +110,7 @@
 </div>&nbsp;&nbsp;
  
 <div align="center">
-<br><p align="centre"><b>👥Visitors Count👥</b></p>  
+<br><p><b>👥Visitors Count👥</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiKassime}/count.svg" /></p> 
 <br></div>
   
