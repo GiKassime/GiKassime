@@ -32,11 +32,6 @@
 
 ## 💻My Skills
 
-| <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiKassime&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Anurag's github stats"  /></a> | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiKassime&layout=compact&theme=jolly&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-
-
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="50%"  align="right" alt="Computador iuriCode">
 
