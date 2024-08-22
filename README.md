@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=header"/>
 <div align="center">
   <img width="100%" height="50%"
-    src="https://readme-typing-svg.herokuapp.com/?color=FFCC00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2"/>
+    src="https://readme-typing-svg.herokuapp.com/?color=FBF9F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2"/>
   
   <img  src="https://i.picasion.com/pic92/0164c18e76a7f5a78cccb7e4f4a1868f.gif"  text-align="middle" width="12%" height="12%" border="2%" alt="https://picasion.com/" />
 </div>
@@ -23,7 +23,7 @@
 - 💬 Ask me about anything [here](https://github.com/GiKassime/GiKassime/issues) or on my email at the end of the readme⬇⬇
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiKassime&bg_color=000000&color=FF8BA7&line=FF8BA7&point=FF8BA7area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiKassime&bg_color=000000&color=9290C3&line=10439F&point=FF8BA7area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
@@ -33,7 +33,7 @@
 ## 💻My Skills
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="50%"  align="right" alt="Computador iuriCode">
+
 
 
 #### ✨I understand:
@@ -43,7 +43,7 @@
  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="Portugol" width="35" height="35" hspace="10"/>
   <img src="https://github.com/GiKassime/GiKassime/assets/134729407/e273fdcf-38d9-477c-9711-8aa3bc19da10" alt="Scratch" width="75" height="30" hspace="10"/>
 
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="30%"  align="right" alt="Computador iuriCode">
 
 
 
@@ -75,22 +75,21 @@
 
 
 
-   <a> <img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95"  min-width="250px" max-width="250px" width="30%"  align="right" alt="Gatinho no Computador" />
-   </a>
-<div align="left">
+
+  <div align="center">
   <a href="https://github.com/GiKassime/Atividades-1-ano-IFPR/tree/main/4%20Bimestre/Pokedex"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=jolly" width="60%"  />
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=tokyonight" width="40%" />
   </a>
 
   <a href="https://github.com/GiKassime/Atividades-1-ano-IFPR/tree/6786671aa8ab6640c6aa9caf407dbd29df3eb5b5/3%20Bimestre/AtividadeBimestralJogo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=jolly"  width="60%"    />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=tokyonight"  width="40%"    />
   </a>
- 
-
-</div>
-
-
-
+  </div>
+ <div align="center">
+  <a> 
+<img src="https://github.com/GiKassime/GiKassime/assets/134729407/7f0db855-975b-48bc-bf67-09ec03354c95"  min-width="250px" max-width="250px" width="15%"  align="center"  alt="Gatinho no Computador" />
+  </a>
+ </div>
 
 
 
@@ -117,4 +116,4 @@
 <br></div>
   
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=footer"/>
