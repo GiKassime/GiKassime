@@ -25,6 +25,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GiKassime&bg_color=000000&color=FF8BA7&line=FF8BA7&point=FF8BA7area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GiKassime&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
 ## 💻My Skills
 
 | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=GiKassime&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="Anurag's github stats"  /></a> | <a href="https://github.com/GiKassime/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiKassime&layout=compact&theme=jolly&hide_border=true" /></a> |
