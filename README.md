@@ -16,7 +16,7 @@
 
 - ❤️🎧🎵I love cats, programming and music. There are several instruments that I like and I also play some🎻🎸.
 
-- 🍰🎈My birthday is 11/06 and I'm currently 17 years old
+- 🍰🎈My birthday is 11/06 and I'm currently 18 years old
   
 - 🤘 My first project made with scratch (I miss scratch), I can't forget my origins [here](https://scratch.mit.edu/projects/831994431/)
   
