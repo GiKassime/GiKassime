@@ -1,9 +1,8 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=header"/>
 <div align="center">
   <img width="100%" height="50%"
-    src="https://readme-typing-svg.herokuapp.com/?color=FBF9F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;Nice+to+meet+you!+:%29;S2"/>
+    src="https://readme-typing-svg.herokuapp.com/?color=FBF9F1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Giovana+Kassime;+:%29;"/>
   
-  <img  src="https://i.picasion.com/pic92/0164c18e76a7f5a78cccb7e4f4a1868f.gif"  text-align="middle" width="12%" height="12%" border="2%" alt="https://picasion.com/" />
 </div>
 
 
@@ -13,10 +12,6 @@
 <div>
 
 - 🧐💻 I am currently attending high school integrated with systems development technician at IFPR.
-
-- ❤️🎧🎵I love cats, programming and music. There are several instruments that I like and I also play some🎻🎸.
-
-- 🍰🎈My birthday is 11/06 and I'm currently 18 years old
   
 - 🤘 My first project made with scratch (I miss scratch), I can't forget my origins [here](https://scratch.mit.edu/projects/831994431/)
   
@@ -40,21 +35,17 @@
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
- <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="Portugol" width="35" height="35" hspace="10"/>
-  <img src="https://github.com/GiKassime/GiKassime/assets/134729407/e273fdcf-38d9-477c-9711-8aa3bc19da10" alt="Scratch" width="75" height="30" hspace="10"/>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="30%"  align="right" alt="Computador iuriCode">
-
-
-
-
-
-#### 😱Studying in this moment:
-![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![json](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)&nbsp;
+<img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="Portugol" width="35" height="35" hspace="10"/>
+<img src="https://github.com/GiKassime/GiKassime/assets/134729407/e273fdcf-38d9-477c-9711-8aa3bc19da10" alt="Scratch" width="75" height="30" hspace="10"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="30%"  align="right" alt="Computador iuriCode">
+
+#### 😱Studying in this moment:
+![SHELL](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
+
 
 
 
@@ -64,11 +55,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
-
-
-#### ⚙Current Tools:
-![VScode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-<br></br>
 
 
 ### 🏆Top Repositories
@@ -109,11 +95,7 @@
 
 
 </div>&nbsp;&nbsp;
- 
-<div align="center">
-<br><p><b>👥Visitors Count👥</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GiKassime}/count.svg" /></p> 
-<br></div>
+
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B60B0&height=120&section=footer"/>
