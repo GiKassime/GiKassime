@@ -63,12 +63,18 @@
 
 
   <div align="center">
-  <a href="https://github.com/GiKassime/Atividades-1-ano-IFPR/tree/main/4%20Bimestre/Pokedex"  target="_blank" >
-  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=tokyonight" width="40%" />
+  <a href="https://github.com/GiKassime/PobreList"  target="_blank" >
+  <img  src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Pobrelist&theme=tokyonight" width="40%" />
   </a>
 
-  <a href="https://github.com/GiKassime/Atividades-1-ano-IFPR/tree/6786671aa8ab6640c6aa9caf407dbd29df3eb5b5/3%20Bimestre/AtividadeBimestralJogo" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Atividades-1-ano-IFPR&theme=tokyonight"  width="40%"    />
+  <a href="https://github.com/GiKassime/Arraiacker" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=Arraiacker&theme=tokyonight"  width="40%"    />
+  </a>
+  <a href="https://github.com/GiKassime/PHPFY2.0" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHPFY2.0&theme=tokyonight"  width="40%"    />
+  </a>
+  <a href="https://github.com/GiKassime/PHPmon" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=GiKassime&repo=PHPmon&theme=tokyonight"  width="40%"    />
   </a>
   </div>
  <div align="center">
